@@ -1,7 +1,7 @@
 import sys
 
 S = str(sys.stdin.readline().rstrip())
-T = str(sys.stdin.readline())
+T = str(sys.stdin.readline().rstrip())
 
 string = T
 T_len = len(T)
